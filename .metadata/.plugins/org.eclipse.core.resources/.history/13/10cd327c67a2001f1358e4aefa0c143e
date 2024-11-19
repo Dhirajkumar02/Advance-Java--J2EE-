@@ -1,0 +1,61 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <!-- Display name of the web application -->
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!-- Servlet Definitions -->
+  <servlet>
+    <servlet-name>ADD</servlet-name>
+    <servlet-class>com.jsp.servlet.calculator.AdditionServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>sub</servlet-name>
+    <servlet-class>com.jsp.servlet.calculator.SubtractionServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>mul</servlet-name>
+    <servlet-class>com.jsp.servlet.calculator.MultiplicationServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>div</servlet-name>
+    <servlet-class>com.jsp.servlet.calculator.DivisionServlet</servlet-class>
+  </servlet>
+
+  <servlet>
+    <servlet-name>rem</servlet-name>
+    <servlet-class>com.jsp.servlet.calculator.ModulusServlet</servlet-class>
+  </servlet>
+
+  <!-- Servlet Mappings -->
+  <servlet-mapping>
+    <servlet-name>ADD</servlet-name>
+    <url-pattern>/add-numbers</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>sub</servlet-name>
+    <url-pattern>/sub-numbers</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>mul</servlet-name>
+    <url-pattern>/mul-numbers</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>div</servlet-name>
+    <url-pattern>/div-numbers</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>rem</servlet-name>
+    <url-pattern>/rem-numbers</url-pattern>
+  </servlet-mapping>
+
+</web-app>

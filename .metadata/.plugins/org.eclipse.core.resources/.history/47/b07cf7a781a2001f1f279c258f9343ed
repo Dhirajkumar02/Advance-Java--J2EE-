@@ -1,0 +1,7 @@
+package com.jsp.sevlet.cardb;
+
+import java.security.GeneralSecurityException;
+
+public class DeleteCarServlet extends GeneralSecurityException {
+
+}

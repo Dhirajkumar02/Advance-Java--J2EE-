@@ -1,0 +1,67 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* background-image:
+		url("https://www.shutterstock.com/image-vector/fast-speed-interface-background-race-600nw-2389046261.jpg"); */
+	background: linear-gradient(165deg, purple, blue);
+}
+
+div {
+	/* border: 2px solid black;
+*/
+	height: 400px;
+	width: 480px;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 40px;
+	border-radius: 20px;
+}
+
+div img {
+	height: 100px;
+	width: 300px;
+}
+
+h1 {
+	/* font-size:35px; */
+	color: blue;
+}
+
+a {
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+	<div>
+		<h1>Welcome to Student DashBoard</h1>
+		<h2>
+			<a href="AddStudent.jsp">ADD NEW STUDENT</a>
+		</h2>
+
+		<h2>
+			<a href="">DISPLAY ALL STUDENTS</a>
+		</h2>
+	</div>
+</body>
+</html>

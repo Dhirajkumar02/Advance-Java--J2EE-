@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+body{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background: linear-gradient(165deg, purple, aqua);
+}
+form {
+  border: 2px solid black;
+  background: #fff;
+  height: 600px;
+  width: 470px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  border-radius: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  color: blue;
+}
+input {
+  height: 50px;
+  width: 300px;
+  padding-left: 10px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<h1>Enter Car Details:</h1>
+<form action="add-car">
+<div>
+<input type="number" placeholder="Enter carId" name="carId" ><br>
+<input type="text" placeholder="Enter carName" name="carName" ><br>
+<input type="text" placeholder="Enter carBrand" name="carBrand"><br>
+<input type="text" placeholder="Enter carModel" name="carModel"><br>
+<input type="number" placeholder="Enter carPrice" name="carPrice"><br>
+</div>
+<div >
+<input type="submit" value="Add">
+</div>
+
+</form>
+</body>
+</html>

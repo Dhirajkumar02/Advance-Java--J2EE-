@@ -1,0 +1,7 @@
+package com.jsp.servlet.sms;
+
+import javax.servlet.http.HttpServlet;
+
+public class AddStudentServlet extends HttpServlet {
+
+}

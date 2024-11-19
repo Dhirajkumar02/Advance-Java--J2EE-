@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Delete Car</h1>
+<form action="delete-car">
+<input type="number" placeholder="Enter carId" name="carId" ><br>
+<input type="submit" value="Delete">
+</form>
+</body>
+</html>
