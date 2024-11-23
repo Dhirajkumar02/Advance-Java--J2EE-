@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-	
-<%@ page import="java.sql.ResultSet" %>
+
+<%@ page import="java.sql.ResultSet"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -49,9 +49,9 @@ h1 {
 	font-size: 2rem;
 	color: #333;
 	text-align: center;
-	font-weight: 600; 
-} 
-	
+	font-weight: 600;
+}
+
 input {
 	height: 40px;
 	width: 300px;
@@ -63,41 +63,55 @@ input {
 }
 
 input:focus {
-    border-color: #007BFF;
-    outline: none;
+	border-color: #007BFF;
+	outline: none;
 }
 
 #update_btn {
 	height: 50px;
 	width: 120px;
-    background-color: #007BFF;
-    color: #fff;
-    border: none;
-    font-size: 18px;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: background-color 0.3s, transform 0.2s;
+	background-color: #007BFF;
+	color: #fff;
+	border: none;
+	font-size: 18px;
+	border-radius: 10px;
+	cursor: pointer;
+	transition: background-color 0.3s, transform 0.2s;
 }
 
 #update_btn:hover {
-    background-color: #0056b3;
-    transform: scale(1.05);
+	background-color: #0056b3;
+	transform: scale(1.05);
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	padding: 10px 20px;
+	background-color: #007BFF;
+	border-radius: 5px;
+	font-size: 16px;
+	font-weight: 500;
+	transition: all 0.3s ease;
+}
+
+a:hover {
+	background-color: #0056b3;
+	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Media Query for responsive design */
-@media (max-width: 600px) {
-    form {
-        padding: 20px;
-        width: 90%;
-    }
-
-    h1 {
-        font-size: 1.5rem;
-    }
-
-    input, #update_btn {
-        font-size: 14px;
-    }
+@media ( max-width : 600px) {
+	form {
+		padding: 20px;
+		width: 90%;
+	}
+	h1 {
+		font-size: 1.5rem;
+	}
+	input, #update_btn {
+		font-size: 14px;
+	}
 }
 </style>
 </head>
@@ -112,33 +126,38 @@ input:focus {
 			<h1>Update Student Details</h1>
 		</div>
 		<div>
-			<input type="number" value="<%=rs.getInt(1)%>" name="studentId" readonly="readonly">
+			<input type="number" value="<%=rs.getInt(1)%>" name="studentId"
+				readonly="readonly">
 		</div>
 
 		<div>
-			<input type="text" value="<%= rs.getString(2) %>" name="studentName">
+			<input type="text" value="<%=rs.getString(2)%>" name="studentName">
 		</div>
 
 		<div>
-			<input type="text" value="<%= rs.getString(3) %>"
-				name="studentEmail">
+			<input type="text" value="<%=rs.getString(3)%>" name="studentEmail">
 		</div>
 
 		<div>
-			<input type="number" value="<%= rs.getInt(4) %>" name="studentAge">
+			<input type="number" value="<%=rs.getInt(4)%>" name="studentAge">
 		</div>
 
 		<div>
-			<input type="text" value="<%= rs.getString(5) %>"
-				name="studentCourse">
+			<input type="text" value="<%=rs.getString(5)%>" name="studentCourse">
 		</div>
 
 		<div>
-			<input type="text" value="<%= rs.getString(6) %>" name="studentCity">
+			<input type="text" value="<%=rs.getString(6)%>" name="studentCity">
 		</div>
 
 		<div>
 			<button type="submit" id="update_btn" value="Update">Update</button>
+		</div>
+
+		<div>
+			<h2>
+				<a href="display-all-students">Back</a>
+			</h2>
 		</div>
 
 	</form>

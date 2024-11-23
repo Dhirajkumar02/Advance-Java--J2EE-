@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Advance Java (J2EE)\ServletProject_Student-Management-System\src\main\webapp\AddStudent.jsp"/>
 			<item value="E:\Advance Java (J2EE)\ServletProjecct_CarDB\src\main\webapp\AddCar.html"/>
 			<item value="E:\Advance Java (J2EE)\ServletProject_Form"/>
 			<item value="E:\Advance Java (J2EE)\JDBC_Project"/>
@@ -28,18 +29,22 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.hibernate"/>
 			<item value="com.jsp.servlet"/>
 			<item value="com.jsp.servlet.dem.ServletProject_Calculator_App"/>
 			<item value="com.jsp.servlet.ServletProject_Demo"/>
 			<item value="com.jsp.jdbcProject.JDBC_Project_Demo"/>
 		</list>
 		<list key="groupId">
+			<item value="com.jsp.hibernate"/>
 			<item value="com.jsp.servlet"/>
 			<item value="com.jsp.servlet.dem"/>
 			<item value="com.jsp.jdbc"/>
 			<item value="com.jsp.jdbcProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="Hibernate_Project"/>
+			<item value="ServletProject_LifeCycle"/>
 			<item value="ServletProject_Student-Management-System"/>
 			<item value="ServletProject_JSP"/>
 			<item value="ServletProjecct_CarDB"/>
