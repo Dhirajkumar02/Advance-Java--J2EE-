@@ -1,16 +1,26 @@
-package com.jsp.hibernate.demo.car;
+package com.jsp.hibernate.cardemo;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table
 public class Car {
 	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column
 	private int carId;
+	@Column
 	private String carName;
+	@Column
 	private String carBrand;
+	@Column
 	private int carPrice;
-	
+	 
 	
 	public int getCarId() {
 		return carId;

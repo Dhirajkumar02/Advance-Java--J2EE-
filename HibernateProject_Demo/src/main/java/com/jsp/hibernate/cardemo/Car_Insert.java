@@ -1,4 +1,4 @@
-package com.jsp.hibernate.demo.car;
+package com.jsp.hibernate.cardemo;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -8,11 +8,20 @@ import org.hibernate.cfg.Configuration;
 
 public class Car_Insert {
 	public static void main(String[] args) {
-		Car c = new Car();
-		c.setCarId(101);
-		c.setCarName("Civica");
-		c.setCarBrand("Honda");
-		c.setCarPrice(270000);
+//		Car c1 = new Car();
+//		c1.setCarName("Civica");
+//		c1.setCarBrand("Honda");
+//		c1.setCarPrice(270000);
+		
+//		Car c2 = new Car();
+//		c2.setCarName("Maruti Suzuki");
+//		c2.setCarBrand("Mahindra");
+//		c2.setCarPrice(360000);
+		
+		Car c3 = new Car();
+		c3.setCarName("Neono");
+		c3.setCarBrand("TATA");
+		c3.setCarPrice(250000);
 		
 		Configuration conn = new Configuration();
 		conn.configure();
@@ -21,9 +30,17 @@ public class Car_Insert {
 		Session session = sf.openSession();
 		Transaction tran = session.beginTransaction();
 		 
-		session.save(c);
+		try {
+			session.save(c3);
+			tran.commit();
+			System.out.println("Car details inserted successfully!");
+			
+		} catch (Exception e) {
+			tran.rollback();
+			e.printStackTrace();
+			System.out.println("Car details not inserted!");
+		}
 		
-		tran.commit();
 		session.close();
 		sf.close();
 	

@@ -1,4 +1,4 @@
-package com.jsp.hibernate.demo.car;
+package com.jsp.hibernate.cardemo;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -14,10 +14,15 @@ public class Car_Fetch {
 		Session session = sf.openSession();
 		Transaction tran = session.beginTransaction();
 		
-		Car c = session.get(Car.class, 101);
-		System.out.println(c);
+		Car c = session.get(Car.class, 4);
 		
-		tran.commit();
+		if (c != null) {
+			System.out.println(c);
+		} else {
+			System.out.println("Car Details not found!");
+
+		}
+		
 		session.close();
 		sf.close();
 	}

@@ -2,6 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Advance Java (J2EE)\HibernateProject_Shopping_Card\src\main\java\com\jsp\hibernate\shopping_cart\dao\ShoppingCartDao.java"/>
+			<item value="E:\Advance Java (J2EE)\HibernateProject_ManyToOne\src\main\java\com\jsp\hibernate\manytoone\App.java"/>
+			<item value="E:\Advance Java (J2EE)\HibernateProject_OneToMany\src\main\java\com\jsp\hibernate\onetomany\Employee.java"/>
+			<item value="E:\Advance Java (J2EE)\HibernateProject_OneToOne\src\main\java\com\jsp\hibernate\onetoone\App.java"/>
+			<item value="E:\Advance Java (J2EE)\HibernateProject_Demo"/>
 			<item value="E:\Advance Java (J2EE)\ServletProject_Student-Management-System\src\main\webapp\AddStudent.jsp"/>
 			<item value="E:\Advance Java (J2EE)\ServletProjecct_CarDB\src\main\webapp\AddCar.html"/>
 			<item value="E:\Advance Java (J2EE)\ServletProject_Form"/>
@@ -29,6 +34,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.hibernate.caching.level1"/>
+			<item value="com.jsp.hibernate.shopping_card.entity"/>
+			<item value="com.jsp.hibernate.manytomany"/>
+			<item value="com.jsp.hibernate.manytoone"/>
+			<item value="com.jsp.hibernate.onetomany"/>
+			<item value="com.jsp.hibernate.onetoone"/>
+			<item value="com.jsp.hibernate.employedb"/>
 			<item value="com.jsp.hibernate"/>
 			<item value="com.jsp.servlet"/>
 			<item value="com.jsp.servlet.dem.ServletProject_Calculator_App"/>
@@ -43,6 +55,13 @@
 			<item value="com.jsp.jdbcProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="Hibernate_Caching"/>
+			<item value="HibernateProject_Shopping_Card"/>
+			<item value="HibernatProject_ManyToMany"/>
+			<item value="HibernateProject_ManyToOne"/>
+			<item value="HibernateProject_OneToMany"/>
+			<item value="HibernateProject_OneToOne"/>
+			<item value="HibernateProject_EmployeeDB"/>
 			<item value="Hibernate_Project"/>
 			<item value="ServletProject_LifeCycle"/>
 			<item value="ServletProject_Student-Management-System"/>
@@ -51,7 +70,6 @@
 			<item value="ServletProject_Form"/>
 			<item value="ServletProject_Calculator_App"/>
 			<item value="ServletProject_Demo"/>
-			<item value="JDBC_Project_Demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

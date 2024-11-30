@@ -3892,3 +3892,2037 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-23 17:05:35.460
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-23 21:52:34.974 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 21:52:39.059
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-23 21:52:40.967
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-23 21:52:48.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.790
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.791
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.793
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.793
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.803
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-23 21:52:53.806
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2024-11-24 11:01:44.677 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-24 11:01:49.891
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-24 11:01:52.011
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-24 11:01:59.899
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.002
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.003
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.003
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.004
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.011
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-24 11:02:21.015
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:10:54.496
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:10:54.533
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:13:29.579
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:13:29.584
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:14:01.939
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:14:01.944
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-24 11:15:07.238
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:149)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:225)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:23:16.561
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:23:16.607
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:38:54.961
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:38:54.965
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:53:31.942
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:53:31.954
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:53:39.307
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:53:39.311
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:56:18.923
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:56:18.926
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:59:45.266
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 11:59:45.269
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:07:55.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:07:55.822
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:13:44.914
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:13:44.917
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:18:02.326
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:18:02.328
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:23:01.603
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:23:01.606
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:23:59.583
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:23:59.587
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:29:54.445
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:29:54.449
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:30:54.695
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:30:54.698
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:16.942
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:16.946
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:26.776
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:26.778
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:50.460
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:35:50.465
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:37:58.969
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:37:58.974
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:38:04.157
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:38:04.161
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:45:09.654
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:45:09.658
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:57:14.722
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 12:57:14.729
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:01:02.202
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:01:02.207
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:05:23.666
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:05:23.668
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:05:59.858
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:05:59.863
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:06:35.393
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:06:35.396
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:08:02.330
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:08:02.335
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:09:41.224
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:09:41.229
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:10:12.860
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-24 13:10:12.863
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-25 12:49:44.658 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 12:49:49.251
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 12:49:51.566
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 12:50:01.157
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.250
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.252
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.253
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.253
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.260
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 13:20:01.264
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:33:48.665
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:33:48.678
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:52:14.587
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:52:14.594
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:54:58.512
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:54:58.517
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:55:28.373
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:55:28.377
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:58:57.351
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 13:58:57.354
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:01:29.614
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:01:29.619
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:04:28.401
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:04:28.404
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:07:25.598
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:07:25.601
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:08:07.676
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:08:07.680
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:08:26.701
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:08:26.706
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:09:01.818
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 14:09:01.823
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-25 19:01:21.661
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:573)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.DeferredImageDescriptor.createImage(DeferredImageDescriptor.java:85)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:229)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.jface.resource.LazyResourceManager.create(LazyResourceManager.java:88)
+	at org.eclipse.jface.resource.LocalResourceManager.allocate(LocalResourceManager.java:71)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.ui.actions.OpenWithMenu.getImage(OpenWithMenu.java:137)
+	at org.eclipse.ui.actions.OpenWithMenu.createMenuItem(OpenWithMenu.java:174)
+	at org.eclipse.ui.actions.OpenWithMenu.fill(OpenWithMenu.java:271)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:728)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:805)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1161)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContents(MenuManagerRenderer.java:633)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeTopicChildAdded(MenuManagerRenderer.java:320)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4855)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:248)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.addUnique(NotifyingListImpl.java:294)
+	at org.eclipse.emf.common.util.AbstractEList.add(AbstractEList.java:304)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:1022)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:960)
+	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:379)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:355)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:338)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:467)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:494)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:272)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1198)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1179)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5138)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4756)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:342)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1482)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2311)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5091)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:241)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4165)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+!SESSION 2024-11-25 19:01:34.736 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 19:01:38.902
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 19:01:40.793
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 19:01:48.307
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.212
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.213
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.214
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.215
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.222
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:03:10.225
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:05:44.538
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:05:44.550
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-25 19:25:07.033 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 19:25:11.436
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 19:25:13.007
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.319
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.320
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.321
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.321
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.333
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 19:25:18.340
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 19:25:19.915
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:27:21.838
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:27:21.848
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:28:45.345
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:28:45.352
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:43:02.280
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:43:02.287
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-25 19:48:01.831
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:149)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:225)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-25 19:48:02.837
+!MESSAGE Could not get hover information due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:73)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:50:28.649
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-25 19:50:28.653
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-25 21:04:54.699 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 21:04:58.247
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-25 21:04:59.837
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-25 21:05:07.055
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.264
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.266
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.268
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.269
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.280
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-25 21:05:27.284
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2024-11-26 12:53:11.567 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 12:53:16.752
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 12:53:18.593
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-26 12:53:25.795
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.556
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.556
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.557
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.558
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.563
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 12:54:06.568
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2024-11-26 14:07:02.583
+!MESSAGE Argument not valid
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4903)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:10185)
+	at org.eclipse.swt.custom.StyledText.replaceStyleRanges(StyledText.java:7731)
+	at org.eclipse.jface.text.TextViewer.addPresentation(TextViewer.java:4782)
+	at org.eclipse.jface.text.TextViewer.changeTextPresentation(TextViewer.java:4859)
+	at org.eclipse.tm4e.ui.text.Colorizer.colorize(Colorizer.java:168)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$TextViewerListener.textChanged(TMPresentationReconciler.java:273)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2795)
+	at org.eclipse.jface.text.TextViewer.fireRedrawChanged(TextViewer.java:5004)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5044)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5012)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5094)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5068)
+	at org.eclipse.jface.text.TextViewer$RewriteTarget.setRedraw(TextViewer.java:1017)
+	at org.eclipse.jface.text.TextViewer$DocumentRewriteSessionListener.documentRewriteSessionChanged(TextViewer.java:1423)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument$1.run(BasicStructuredDocument.java:2973)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.fireDocumentRewriteSessionEvent(BasicStructuredDocument.java:2971)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.internalStopRewriteSession(BasicStructuredDocument.java:2853)
+	at org.eclipse.wst.sse.core.internal.text.JobSafeStructuredDocument.stopRewriteSession(JobSafeStructuredDocument.java:237)
+	at org.eclipse.jface.text.RewriteSessionEditProcessor.performEdits(RewriteSessionEditProcessor.java:101)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyEdits(LSPEclipseUtils.java:571)
+	at org.eclipse.lsp4e.VersionedEdits.apply(VersionedEdits.java:45)
+	at org.eclipse.lsp4e.operations.format.LSPFormatHandler.lambda$1(LSPFormatHandler.java:53)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at org.eclipse.lsp4e.operations.format.LSPFormatHandler.lambda$0(LSPFormatHandler.java:51)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:762)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:526)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4099)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+!SESSION 2024-11-26 15:24:04.333 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 15:24:09.179
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-26 15:24:11.907
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-26 15:24:21.301
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.795
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.797
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.799
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.804
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.824
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-26 15:24:36.829
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2024-11-27 12:51:24.455 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 12:51:29.385
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-27 12:51:31.141
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-27 12:51:38.079
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.958
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.960
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.961
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.962
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.972
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:23.975
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.175
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.176
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.177
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.177
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.182
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 13:53:48.186
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2024-11-27 13:54:08.996
+!MESSAGE Argument not valid
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4903)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:10185)
+	at org.eclipse.swt.custom.StyledText.replaceStyleRanges(StyledText.java:7731)
+	at org.eclipse.jface.text.TextViewer.addPresentation(TextViewer.java:4782)
+	at org.eclipse.jface.text.TextViewer.changeTextPresentation(TextViewer.java:4859)
+	at org.eclipse.tm4e.ui.text.Colorizer.colorize(Colorizer.java:168)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$TextViewerListener.textChanged(TMPresentationReconciler.java:273)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2795)
+	at org.eclipse.jface.text.TextViewer.fireRedrawChanged(TextViewer.java:5004)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5044)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5012)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5094)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5068)
+	at org.eclipse.jface.text.TextViewer$RewriteTarget.setRedraw(TextViewer.java:1017)
+	at org.eclipse.jface.text.TextViewer$DocumentRewriteSessionListener.documentRewriteSessionChanged(TextViewer.java:1423)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument$1.run(BasicStructuredDocument.java:2973)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.fireDocumentRewriteSessionEvent(BasicStructuredDocument.java:2971)
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.internalStopRewriteSession(BasicStructuredDocument.java:2853)
+	at org.eclipse.wst.sse.core.internal.text.JobSafeStructuredDocument.stopRewriteSession(JobSafeStructuredDocument.java:237)
+	at org.eclipse.jface.text.RewriteSessionEditProcessor.performEdits(RewriteSessionEditProcessor.java:101)
+	at org.eclipse.lsp4e.LSPEclipseUtils.applyEdits(LSPEclipseUtils.java:571)
+	at org.eclipse.lsp4e.VersionedEdits.apply(VersionedEdits.java:45)
+	at org.eclipse.lsp4e.operations.format.LSPFormatHandler.lambda$1(LSPFormatHandler.java:53)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at org.eclipse.lsp4e.operations.format.LSPFormatHandler.lambda$0(LSPFormatHandler.java:51)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:762)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:526)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4099)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.208
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.218
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.221
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.221
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.231
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-27 14:45:48.234
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2024-11-28 08:30:10.135 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 08:30:14.515
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 08:30:16.653
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-28 08:30:24.861
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.core.ui 4 0 2024-11-28 11:43:09.383
+!MESSAGE Failed to create project.
+!STACK 0
+java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Process exit value was 1. Console printout:
+===============================================================
+[INFO] Scanning for projects...
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-metadata.xml
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/mojo/maven-metadata.xml
+Progress (1): 1.4/21 kBProgress (2): 1.4/21 kB | 1.4/14 kBProgress (2): 1.4/21 kB | 2.8/14 kBProgress (2): 1.4/21 kB | 4.1/14 kBProgress (2): 2.8/21 kB | 4.1/14 kBProgress (2): 4.1/21 kB | 4.1/14 kBProgress (2): 5.5/21 kB | 4.1/14 kBProgress (2): 6.9/21 kB | 4.1/14 kBProgress (2): 8.3/21 kB | 4.1/14 kBProgress (2): 9.7/21 kB | 4.1/14 kBProgress (2): 11/21 kB | 4.1/14 kB Progress (2): 12/21 kB | 4.1/14 kBProgress (2): 14/21 kB | 4.1/14 kBProgress (2): 15/21 kB | 4.1/14 kBProgress (2): 17/21 kB | 4.1/14 kBProgress (2): 18/21 kB | 4.1/14 kBProgress (2): 19/21 kB | 4.1/14 kBProgress (2): 21 kB | 4.1/14 kB                                  Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/mojo/maven-metadata.xml[90m (21 kB at 10.0 kB/s)[0m
+Progress (1): 5.5/14 kBProgress (1): 6.9/14 kBProgress (1): 8.3/14 kBProgress (1): 9.7/14 kBProgress (1): 11/14 kB Progress (1): 12/14 kBProgress (1): 14/14 kBProgress (1): 14 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-metadata.xml[90m (14 kB at 3.8 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml
+Progress (1): 1.0 kB                    Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml[90m (1.0 kB at 7.7 kB/s)[0m
+[INFO] 
+[INFO] [1m------------------< [0;36morg.apache.maven:standalone-pom[0;1m >-------------------[m
+[INFO] [1mBuilding Maven Stub Project (No POM) 1[m
+[INFO] [1m--------------------------------[ pom ]---------------------------------[m
+[INFO] 
+[INFO] [1m>>> [0;32marchetype:3.3.1:generate[m [1m(default-cli)[0;1m > [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m >>>[m
+[INFO] 
+[INFO] [1m<<< [0;32marchetype:3.3.1:generate[m [1m(default-cli)[0;1m < [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m <<<[m
+[INFO] 
+[INFO] 
+[INFO] [1m--- [0;32marchetype:3.3.1:generate[m [1m(default-cli)[m @ [36mstandalone-pom[0;1m ---[m
+[INFO] Generating project in Interactive mode
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0marchetype-catalog.xml
+Progress (1): 0/16 MBProgress (1): 0/16 MBProgress (1): 0/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.9/16 MB
+"===============================================================
+	at java.base/java.util.concurrent.CompletableFuture.wrapInExecutionException(CompletableFuture.java:345)
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:440)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2117)
+	at org.eclipse.m2e.core.ui.internal.archetype.ArchetypeGenerator.createArchetypeProjects(ArchetypeGenerator.java:164)
+	at org.eclipse.m2e.core.ui.internal.wizards.MavenProjectWizard$3.doCreateMavenProjects(MavenProjectWizard.java:246)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob$1.doCreateMavenProjects(AbstractCreateMavenProjectJob.java:51)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectsOperation.run(AbstractCreateMavenProjectsOperation.java:56)
+	at org.eclipse.m2e.core.ui.internal.wizards.AbstractCreateMavenProjectJob.runInWorkspace(AbstractCreateMavenProjectJob.java:55)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.lang.IllegalStateException: Process exit value was 1. Console printout:
+===============================================================
+[INFO] Scanning for projects...
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-metadata.xml
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/mojo/maven-metadata.xml
+Progress (1): 1.4/21 kBProgress (2): 1.4/21 kB | 1.4/14 kBProgress (2): 1.4/21 kB | 2.8/14 kBProgress (2): 1.4/21 kB | 4.1/14 kBProgress (2): 2.8/21 kB | 4.1/14 kBProgress (2): 4.1/21 kB | 4.1/14 kBProgress (2): 5.5/21 kB | 4.1/14 kBProgress (2): 6.9/21 kB | 4.1/14 kBProgress (2): 8.3/21 kB | 4.1/14 kBProgress (2): 9.7/21 kB | 4.1/14 kBProgress (2): 11/21 kB | 4.1/14 kB Progress (2): 12/21 kB | 4.1/14 kBProgress (2): 14/21 kB | 4.1/14 kBProgress (2): 15/21 kB | 4.1/14 kBProgress (2): 17/21 kB | 4.1/14 kBProgress (2): 18/21 kB | 4.1/14 kBProgress (2): 19/21 kB | 4.1/14 kBProgress (2): 21 kB | 4.1/14 kB                                  Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/codehaus/mojo/maven-metadata.xml[90m (21 kB at 10.0 kB/s)[0m
+Progress (1): 5.5/14 kBProgress (1): 6.9/14 kBProgress (1): 8.3/14 kBProgress (1): 9.7/14 kBProgress (1): 11/14 kB Progress (1): 12/14 kBProgress (1): 14/14 kBProgress (1): 14 kB                      Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-metadata.xml[90m (14 kB at 3.8 kB/s)[0m
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml
+Progress (1): 1.0 kB                    Downloaded[90m from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0morg/apache/maven/plugins/maven-archetype-plugin/maven-metadata.xml[90m (1.0 kB at 7.7 kB/s)[0m
+[INFO] 
+[INFO] [1m------------------< [0;36morg.apache.maven:standalone-pom[0;1m >-------------------[m
+[INFO] [1mBuilding Maven Stub Project (No POM) 1[m
+[INFO] [1m--------------------------------[ pom ]---------------------------------[m
+[INFO] 
+[INFO] [1m>>> [0;32marchetype:3.3.1:generate[m [1m(default-cli)[0;1m > [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m >>>[m
+[INFO] 
+[INFO] [1m<<< [0;32marchetype:3.3.1:generate[m [1m(default-cli)[0;1m < [0;1mgenerate-sources[m @ [36mstandalone-pom[0;1m <<<[m
+[INFO] 
+[INFO] 
+[INFO] [1m--- [0;32marchetype:3.3.1:generate[m [1m(default-cli)[m @ [36mstandalone-pom[0;1m ---[m
+[INFO] Generating project in Interactive mode
+[90mDownloading from [0mcentral[90m: https://repo.maven.apache.org/maven2/[0marchetype-catalog.xml
+Progress (1): 0/16 MBProgress (1): 0/16 MBProgress (1): 0/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.1/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.2/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.3/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.4/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.5/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.6/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.7/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.8/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 0.9/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.0/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.1/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.2/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.3/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.4/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.5/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.6/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.7/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.8/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 1.9/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.0/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.1/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.2/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.3/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.4/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.5/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.6/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.7/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.8/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 2.9/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.0/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.1/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.2/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.3/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.4/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.5/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.6/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.7/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.8/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 3.9/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.0/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.1/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.2/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.3/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.4/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.5/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.6/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.7/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.8/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 4.9/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.0/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.1/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.2/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.3/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.4/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.5/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.6/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.7/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.8/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 5.9/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.0/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.1/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.2/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.3/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.4/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.5/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.6/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.7/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.8/16 MBProgress (1): 6.9/16 MB
+"===============================================================
+	at org.eclipse.m2e.internal.launch.EclipseMavenLauncher$1.lambda$4(EclipseMavenLauncher.java:120)
+	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+	at org.eclipse.m2e.internal.launch.EclipseMavenLauncher$1.launchesTerminated(EclipseMavenLauncher.java:107)
+	at org.eclipse.debug.internal.core.LaunchManager$LaunchesNotifier.run(LaunchManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$LaunchesNotifier.notify(LaunchManager.java:256)
+	at org.eclipse.debug.internal.core.LaunchManager.fireUpdate(LaunchManager.java:908)
+	at org.eclipse.debug.core.Launch.fireTerminate(Launch.java:481)
+	at org.eclipse.debug.core.Launch.handleDebugEvents(Launch.java:646)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.run(DebugPlugin.java:1287)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.core.DebugPlugin$EventNotifier.dispatch(DebugPlugin.java:1321)
+	at org.eclipse.debug.core.DebugPlugin$EventDispatchJob.run(DebugPlugin.java:498)
+	... 1 more
+!SESSION 2024-11-28 12:51:22.253 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 12:51:27.705
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-28 12:51:29.823
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-28 12:51:38.484
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.600
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.601
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.603
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.605
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.616
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:51:51.620
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-28 12:51:57.319
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:149)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:225)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-28 12:51:58.331
+!MESSAGE Could not get hover information due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverInfo(LSPTextHover.java:73)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverInfo2(CompositeTextHover.java:60)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.075
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.076
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.077
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.077
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.084
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 12:53:17.090
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.151
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.161
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.162
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.163
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.169
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:33:19.230
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.413
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.414
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.415
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.416
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.459
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-28 13:34:17.464
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+!SESSION 2024-11-29 11:15:41.904 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 11:15:46.767
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 11:15:49.245
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-29 11:15:58.333
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-11-29 13:03:17.840 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 13:03:24.007
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 13:03:26.361
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-29 13:03:35.974
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.017
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.019
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.020
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.020
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.027
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 13:08:56.031
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:08:56.387
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:08:56.403
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:09:15.867
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:09:15.875
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:09:57.001
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:09:57.009
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:11:10.389
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:11:10.398
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.ui.workbench 4 0 2024-11-29 13:12:20.119
+!MESSAGE An internal error has occurred.
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4922)
+	at org.eclipse.swt.SWT.error(SWT.java:4837)
+	at org.eclipse.swt.SWT.error(SWT.java:4808)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:500)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:419)
+	at org.eclipse.swt.widgets.TreeItem.getParentItem(TreeItem.java:858)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalRemove(AbstractTreeViewer.java:2069)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$3(AbstractTreeViewer.java:2344)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1392)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:367)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1353)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.remove(AbstractTreeViewer.java:2344)
+	at org.eclipse.ui.navigator.CommonViewer.remove(CommonViewer.java:326)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.remove(AbstractTreeViewer.java:2390)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.lambda$3(PackageExplorerContentProvider.java:978)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.runUpdates(PackageExplorerContentProvider.java:210)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider.runPendingUpdates(PackageExplorerContentProvider.java:202)
+	at org.eclipse.jdt.internal.ui.packageview.PackageExplorerContentProvider$1.runInUIThread(PackageExplorerContentProvider.java:180)
+	at org.eclipse.ui.progress.UIJob.lambda$0(UIJob.java:148)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4099)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3715)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:168)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:370)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:325)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:148)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteWizard$DeleteInputPage.performFinish(DeleteWizard.java:176)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:451)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:468)
+	at org.eclipse.jface.dialogs.Dialog.lambda$0(Dialog.java:619)
+	at org.eclipse.swt.events.SelectionListener$1.widgetSelected(SelectionListener.java:84)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:265)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.lambda$0(RefactoringWizardOpenOperation.java:190)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:209)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:126)
+	at org.eclipse.jdt.internal.ui.refactoring.actions.RefactoringStarter.activate(RefactoringStarter.java:41)
+	at org.eclipse.jdt.internal.ui.refactoring.UserInterfaceStarter.activate(UserInterfaceStarter.java:65)
+	at org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startDeleteRefactoring(RefactoringExecutionStarter.java:296)
+	at org.eclipse.jdt.internal.ui.refactoring.reorg.DeleteAction.run(DeleteAction.java:205)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:581)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:415)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:13:40.694
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:13:40.698
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:14:09.161
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:14:09.175
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:15:06.722
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:15:06.733
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:17:20.891
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:17:20.896
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:18:31.281
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:18:31.284
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:18:56.969
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:18:56.974
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:19:45.987
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:19:45.992
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:20:10.436
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:20:10.440
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:20:30.544
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:20:30.548
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:33:15.646
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:33:15.649
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:34:12.922
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:34:12.926
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:35:35.094
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:35:35.098
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:36:08.371
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:36:08.374
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:37:32.668
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:37:32.672
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:59:04.664
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 13:59:04.666
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:04:45.595
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:04:45.598
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:08:11.036
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:08:11.038
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:08:26.528
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:08:26.531
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:10:03.547
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:10:03.551
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:11:03.813
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:11:03.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:36:56.495
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:36:56.498
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:40:44.092
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:40:44.095
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:48:24.079
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:48:24.082
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:49:32.757
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 14:49:32.760
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-29 22:04:51.283 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 22:04:55.718
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-29 22:04:57.594
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-29 22:05:04.896
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:06:17.962
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:06:17.973
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:09:11.757
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:09:11.769
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:28:27.614
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:28:27.619
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:29:17.702
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:29:17.710
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:33:56.587
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:33:56.590
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:38:11.985
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:38:11.990
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:45:53.271
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:45:53.275
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:50:36.826
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:50:36.832
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:53:50.547
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:53:50.550
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:58:18.132
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 22:58:18.139
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.982
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.983
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.984
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.985
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.993
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-29 22:59:13.997
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 23:17:09.356
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 23:17:09.365
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 23:39:50.767
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2024-11-29 23:39:50.776
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2024-11-30 12:51:38.340 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=23.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-30 12:51:44.039
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-30 12:51:46.738
+!MESSAGE Logback config file: E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-11-30 12:51:55.805
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\HP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.319
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/application-client_9.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.321
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/jobXML_2_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.322
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jakartaee/beans_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.323
+!MESSAGE The given URI https://jakarta.ee/xml/ns/jaxb/bindingschema_3_0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.331
+!MESSAGE The given URI https://jakarta.ee/xml/ns/validation/validation-configuration-3.0.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.wildwebdeveloper.xml 2 0 2024-11-30 13:35:18.337
+!MESSAGE The given URI http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_1.xsd from org.eclipse.jst.standard.schemas could not be resolved for local access
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-11-30 14:20:05.166
+!MESSAGE Could not get hover region due to timeout after 1000 milliseconds
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:2004)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2139)
+	at org.eclipse.lsp4e.operations.hover.LSPTextHover.getHoverRegion(LSPTextHover.java:149)
+	at org.eclipse.ui.internal.genericeditor.hover.CompositeTextHover.getHoverRegion(CompositeTextHover.java:101)
+	at org.eclipse.jface.text.TextViewerHoverManager.computeInformation(TextViewerHoverManager.java:128)
+	at org.eclipse.jface.text.AbstractInformationControlManager.doShowInformation(AbstractInformationControlManager.java:1101)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager$MouseTracker.mouseHover(AbstractHoverInformationControlManager.java:511)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:225)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-30 14:41:20.756
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:573)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:267)
+	at org.eclipse.pde.internal.ui.util.SharedLabelProvider.createImage(SharedLabelProvider.java:120)
+	at org.eclipse.pde.internal.ui.util.SharedLabelProvider.get(SharedLabelProvider.java:96)
+	at org.eclipse.pde.internal.ui.util.SharedLabelProvider.get(SharedLabelProvider.java:85)
+	at org.eclipse.pde.internal.ui.correction.java.SearchRepositoriesForIUProposal.getImage(SearchRepositoriesForIUProposal.java:83)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.createCompletionProposalLink(AbstractAnnotationHover.java:492)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.createCompletionProposalsList(AbstractAnnotationHover.java:396)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.createCompletionProposalsControl(AbstractAnnotationHover.java:377)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.deferredCreateContent(AbstractAnnotationHover.java:306)
+	at org.eclipse.jdt.internal.ui.text.java.hover.AbstractAnnotationHover$AnnotationInformationControl.setInput(AbstractAnnotationHover.java:190)
+	at org.eclipse.jface.text.AbstractInformationControlManager.internalShowInformationControl(AbstractInformationControlManager.java:1151)
+	at org.eclipse.jface.text.AbstractInformationControlManager.presentInformation(AbstractInformationControlManager.java:1120)
+	at org.eclipse.jface.text.AbstractHoverInformationControlManager.presentInformation(AbstractHoverInformationControlManager.java:884)
+	at org.eclipse.jface.text.TextViewerHoverManager.doPresentInformation(TextViewerHoverManager.java:237)
+	at org.eclipse.jface.text.TextViewerHoverManager.lambda$3(TextViewerHoverManager.java:227)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4099)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3715)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-30 14:41:21.889
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:573)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:267)
+	at org.eclipse.wst.xml.ui.internal.ImageDescriptorRegistry.getImage(ImageDescriptorRegistry.java:36)
+	at org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.createPages(XMLMultiPageEditorPart.java:795)
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:332)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:977)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:939)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:139)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:312)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:90)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:59)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4855)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:168)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:187)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:654)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:618)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:796)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1271)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3228)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3118)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3116)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3086)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3077)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:546)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:506)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:377)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInSpecificEditor(EditorUtility.java:176)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:169)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:53)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:184)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:799)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:796)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1110)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:451)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:295)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-30 14:41:21.890
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:573)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:289)
+	at org.eclipse.jface.resource.ImageDescriptor.createImage(ImageDescriptor.java:267)
+	at org.eclipse.wst.xml.ui.internal.ImageDescriptorRegistry.getImage(ImageDescriptorRegistry.java:36)
+	at org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart.createPages(XMLMultiPageEditorPart.java:794)
+	at org.eclipse.ui.part.MultiPageEditorPart.createPartControl(MultiPageEditorPart.java:332)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.createPartControl(CompatibilityPart.java:158)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor.createPartControl(CompatibilityEditor.java:96)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:365)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:977)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:939)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalInject(InjectorImpl.java:139)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:312)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:203)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:90)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:59)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:42)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:132)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:991)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:658)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$2.run(PartRenderingEngine.java:727)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:711)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.lambda$0(PartServiceImpl.java:105)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.lambda$0(UIEventHandler.java:38)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4855)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElementGen(ElementContainerImpl.java:168)
+	at org.eclipse.e4.ui.model.application.ui.impl.ElementContainerImpl.setSelectedElement(ElementContainerImpl.java:187)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.showElementInWindow(ModelServiceImpl.java:654)
+	at org.eclipse.e4.ui.internal.workbench.ModelServiceImpl.bringToTop(ModelServiceImpl.java:618)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.delegateBringToTop(PartServiceImpl.java:796)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.bringToTop(PartServiceImpl.java:401)
+	at org.eclipse.e4.ui.internal.workbench.PartServiceImpl.showPart(PartServiceImpl.java:1271)
+	at org.eclipse.ui.internal.WorkbenchPage.busyOpenEditor(WorkbenchPage.java:3228)
+	at org.eclipse.ui.internal.WorkbenchPage.lambda$11(WorkbenchPage.java:3118)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3116)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3086)
+	at org.eclipse.ui.internal.WorkbenchPage.openEditor(WorkbenchPage.java:3077)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:546)
+	at org.eclipse.ui.ide.IDE.openEditor(IDE.java:506)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:377)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInSpecificEditor(EditorUtility.java:176)
+	at org.eclipse.jdt.internal.ui.javaeditor.EditorUtility.openInEditor(EditorUtility.java:169)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:288)
+	at org.eclipse.jdt.ui.actions.OpenAction.run(OpenAction.java:254)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.dispatchRun(SelectionDispatchAction.java:274)
+	at org.eclipse.jdt.ui.actions.SelectionDispatchAction.run(SelectionDispatchAction.java:252)
+	at org.eclipse.jdt.internal.ui.navigator.OpenAndExpand.run(OpenAndExpand.java:53)
+	at org.eclipse.ui.actions.RetargetAction.run(RetargetAction.java:215)
+	at org.eclipse.ui.navigator.CommonNavigatorManager$1.open(CommonNavigatorManager.java:184)
+	at org.eclipse.ui.OpenAndLinkWithEditorHelper$InternalListener.open(OpenAndLinkWithEditorHelper.java:48)
+	at org.eclipse.jface.viewers.StructuredViewer$2.run(StructuredViewer.java:799)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.fireOpen(StructuredViewer.java:796)
+	at org.eclipse.jface.viewers.StructuredViewer.handleOpen(StructuredViewer.java:1110)
+	at org.eclipse.ui.navigator.CommonViewer.handleOpen(CommonViewer.java:451)
+	at org.eclipse.jface.util.OpenStrategy.fireOpenEvent(OpenStrategy.java:295)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:330)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4124)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3712)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+
+!ENTRY org.eclipse.ui.ide 4 4 2024-11-30 14:41:21.891
+!MESSAGE Not properly disposed SWT resource
+!STACK 0
+java.lang.Error: SWT Resource was not properly disposed
+	at org.eclipse.swt.graphics.Resource.initNonDisposeTracking(Resource.java:172)
+	at org.eclipse.swt.graphics.Resource.<init>(Resource.java:120)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:573)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:306)
+	at org.eclipse.jface.resource.DeferredImageDescriptor.createImage(DeferredImageDescriptor.java:85)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:229)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.jface.resource.LazyResourceManager.create(LazyResourceManager.java:88)
+	at org.eclipse.jface.resource.LocalResourceManager.allocate(LocalResourceManager.java:71)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.ui.actions.OpenWithMenu.getImage(OpenWithMenu.java:137)
+	at org.eclipse.ui.actions.OpenWithMenu.createMenuItem(OpenWithMenu.java:174)
+	at org.eclipse.ui.actions.OpenWithMenu.fill(OpenWithMenu.java:271)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:728)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:805)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1161)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.processContents(MenuManagerRenderer.java:633)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeTopicChildAdded(MenuManagerRenderer.java:320)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:183)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4855)
+	at org.eclipse.e4.ui.workbench.swt.DisplayUISynchronize.syncExec(DisplayUISynchronize.java:34)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:206)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:201)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:131)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:73)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:60)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.emf.ecore.util.EcoreEList.dispatchNotification(EcoreEList.java:248)
+	at org.eclipse.emf.common.notify.impl.NotifyingListImpl.addUnique(NotifyingListImpl.java:294)
+	at org.eclipse.emf.common.util.AbstractEList.add(AbstractEList.java:304)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:1022)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.reconcileManagerToModel(MenuManagerRenderer.java:960)
+	at org.eclipse.ui.internal.PopupMenuExtender.addMenuContributions(PopupMenuExtender.java:379)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:355)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:338)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:467)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:494)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:272)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4326)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1174)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1198)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1179)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5138)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4756)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:342)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1482)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2311)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5091)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:241)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4165)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:153)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
