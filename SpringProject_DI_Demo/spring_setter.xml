@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/  http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <!--Bean Definition for Student class-->
+	<bean id="student-bean" class="com.jsp.spring.demo2.Student">
+		<property name="studentId" value="101"></property>
+		<property name="studentName" value="Dhiraj Kumar"></property>
+		<property name="studentAge" value="22"></property>
+		<property name="address" ref="address-bean"></property>
+
+   </bean>
+	
+	<!--Bean Definition for Address class-->
+	<bean id="address-bean" class="com.jsp.spring.demo2.Address">
+		<property name="location" value="BTR"></property>
+		<property name="city" value="Benagulu"></property>
+	</bean>
+</beans>

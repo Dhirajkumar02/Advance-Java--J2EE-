@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Advance Java (J2EE)\SpringProject_Demo\spring.xml"/>
+			<item value="E:\Advance Java (J2EE)\Hibernate_JPA\src\main\java\com\jsp\hibernate\jpa\App.java"/>
+			<item value="E:\Advance Java (J2EE)\Hibernate_HQL\src\main\java\com\jsp\hibernate\criteria\CriteriaBuilder_App.java"/>
 			<item value="E:\Advance Java (J2EE)\HibernateProject_Shopping_Card\src\main\java\com\jsp\hibernate\shopping_cart\dao\ShoppingCartDao.java"/>
 			<item value="E:\Advance Java (J2EE)\HibernateProject_ManyToOne\src\main\java\com\jsp\hibernate\manytoone\App.java"/>
 			<item value="E:\Advance Java (J2EE)\HibernateProject_OneToMany\src\main\java\com\jsp\hibernate\onetomany\Employee.java"/>
@@ -34,6 +37,9 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.spring.demo"/>
+			<item value="com.jsp.hibernate.jpa"/>
+			<item value="com.jsp.hibernate.hql"/>
 			<item value="com.jsp.hibernate.caching.level1"/>
 			<item value="com.jsp.hibernate.shopping_card.entity"/>
 			<item value="com.jsp.hibernate.manytomany"/>
@@ -48,6 +54,7 @@
 			<item value="com.jsp.jdbcProject.JDBC_Project_Demo"/>
 		</list>
 		<list key="groupId">
+			<item value="com.jsp.spring"/>
 			<item value="com.jsp.hibernate"/>
 			<item value="com.jsp.servlet"/>
 			<item value="com.jsp.servlet.dem"/>
@@ -55,6 +62,10 @@
 			<item value="com.jsp.jdbcProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringProject_DI_Demo"/>
+			<item value="SpringProject_Demo"/>
+			<item value="Hibernate_JPA"/>
+			<item value="Hibernate_HQL"/>
 			<item value="Hibernate_Caching"/>
 			<item value="HibernateProject_Shopping_Card"/>
 			<item value="HibernatProject_ManyToMany"/>
@@ -66,10 +77,6 @@
 			<item value="ServletProject_LifeCycle"/>
 			<item value="ServletProject_Student-Management-System"/>
 			<item value="ServletProject_JSP"/>
-			<item value="ServletProjecct_CarDB"/>
-			<item value="ServletProject_Form"/>
-			<item value="ServletProject_Calculator_App"/>
-			<item value="ServletProject_Demo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
