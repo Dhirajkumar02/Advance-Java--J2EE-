@@ -18,6 +18,6 @@
 	<!--Bean Definition for Address class-->
 	<bean id="address-bean" class="com.jsp.spring.demo2.Address">
 		<constructor-arg name="location" value="BTR"></constructor-arg>
-		<constructor-arg name="city" value="Benagulu"></constructor-arg>
+		<constructor-arg name="city" value="Bengaluru"></constructor-arg>
 	</bean>
 </beans>

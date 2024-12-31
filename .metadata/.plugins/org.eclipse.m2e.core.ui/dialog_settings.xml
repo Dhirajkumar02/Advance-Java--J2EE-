@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\Advance Java (J2EE)\SpringProject_Productdb\src\main\java\com\jsp\spring\productdb\service\ProductService.java"/>
+			<item value="E:\Advance Java (J2EE)\SpringProject_Annotations\src\main\java\com\jsp\spring\annotations\Product.java"/>
+			<item value="E:\Advance Java (J2EE)\ServletProject_Form"/>
+			<item value="E:\Advance Java (J2EE)\SpringProject_DI_Demo\src\main\java\com\jsp\spring\demo2\App.java"/>
 			<item value="E:\Advance Java (J2EE)\SpringProject_Demo\spring.xml"/>
 			<item value="E:\Advance Java (J2EE)\Hibernate_JPA\src\main\java\com\jsp\hibernate\jpa\App.java"/>
 			<item value="E:\Advance Java (J2EE)\Hibernate_HQL\src\main\java\com\jsp\hibernate\criteria\CriteriaBuilder_App.java"/>
@@ -12,7 +16,6 @@
 			<item value="E:\Advance Java (J2EE)\HibernateProject_Demo"/>
 			<item value="E:\Advance Java (J2EE)\ServletProject_Student-Management-System\src\main\webapp\AddStudent.jsp"/>
 			<item value="E:\Advance Java (J2EE)\ServletProjecct_CarDB\src\main\webapp\AddCar.html"/>
-			<item value="E:\Advance Java (J2EE)\ServletProject_Form"/>
 			<item value="E:\Advance Java (J2EE)\JDBC_Project"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -37,6 +40,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.spring_mvc.studentdb"/>
+			<item value="com.jsp.spring_mvc.demo"/>
+			<item value="com.jsp.spring.productdb"/>
+			<item value="com.jsp.spring.injection"/>
+			<item value="com.jsp.spring.annotations"/>
+			<item value="com.jsp.spring.application_context"/>
+			<item value="com.jsp.spring.autowire"/>
 			<item value="com.jsp.spring.demo"/>
 			<item value="com.jsp.hibernate.jpa"/>
 			<item value="com.jsp.hibernate.hql"/>
@@ -45,15 +55,9 @@
 			<item value="com.jsp.hibernate.manytomany"/>
 			<item value="com.jsp.hibernate.manytoone"/>
 			<item value="com.jsp.hibernate.onetomany"/>
-			<item value="com.jsp.hibernate.onetoone"/>
-			<item value="com.jsp.hibernate.employedb"/>
-			<item value="com.jsp.hibernate"/>
-			<item value="com.jsp.servlet"/>
-			<item value="com.jsp.servlet.dem.ServletProject_Calculator_App"/>
-			<item value="com.jsp.servlet.ServletProject_Demo"/>
-			<item value="com.jsp.jdbcProject.JDBC_Project_Demo"/>
 		</list>
 		<list key="groupId">
+			<item value="com.jsp.spring_mvc"/>
 			<item value="com.jsp.spring"/>
 			<item value="com.jsp.hibernate"/>
 			<item value="com.jsp.servlet"/>
@@ -62,6 +66,13 @@
 			<item value="com.jsp.jdbcProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="Spring_MVC_StudentDB"/>
+			<item value="SpringProject_MVC_Demo"/>
+			<item value="SpringProject_Productdb"/>
+			<item value="Spring_AnnotationContext"/>
+			<item value="SpringProject_Annotations"/>
+			<item value="Spring_ApplicationContext"/>
+			<item value="Spring_Autowiring"/>
 			<item value="SpringProject_DI_Demo"/>
 			<item value="SpringProject_Demo"/>
 			<item value="Hibernate_JPA"/>
@@ -70,13 +81,6 @@
 			<item value="HibernateProject_Shopping_Card"/>
 			<item value="HibernatProject_ManyToMany"/>
 			<item value="HibernateProject_ManyToOne"/>
-			<item value="HibernateProject_OneToMany"/>
-			<item value="HibernateProject_OneToOne"/>
-			<item value="HibernateProject_EmployeeDB"/>
-			<item value="Hibernate_Project"/>
-			<item value="ServletProject_LifeCycle"/>
-			<item value="ServletProject_Student-Management-System"/>
-			<item value="ServletProject_JSP"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -112,5 +116,20 @@
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\SpringBoot_ActorDB\SpringBoot_ActorDB"/>
+			<item value="E:\SpringBoot_Demo2\SpringBoot_Demo2"/>
+			<item value="E:\SpringBoot_Demo\SpringBoot_Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
 	</section>
 </section>
