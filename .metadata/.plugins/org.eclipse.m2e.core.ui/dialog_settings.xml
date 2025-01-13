@@ -40,6 +40,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.jsp.jpa_actor_movie_db"/>
 			<item value="com.jsp.spring_mvc.studentdb"/>
 			<item value="com.jsp.spring_mvc.demo"/>
 			<item value="com.jsp.spring.productdb"/>
@@ -54,9 +55,9 @@
 			<item value="com.jsp.hibernate.shopping_card.entity"/>
 			<item value="com.jsp.hibernate.manytomany"/>
 			<item value="com.jsp.hibernate.manytoone"/>
-			<item value="com.jsp.hibernate.onetomany"/>
 		</list>
 		<list key="groupId">
+			<item value="com.jsp.jpa_actor_movie_db"/>
 			<item value="com.jsp.spring_mvc"/>
 			<item value="com.jsp.spring"/>
 			<item value="com.jsp.hibernate"/>
@@ -66,6 +67,7 @@
 			<item value="com.jsp.jdbcProject"/>
 		</list>
 		<list key="artifactId">
+			<item value="JPA_Actor_Movie_DB"/>
 			<item value="Spring_MVC_StudentDB"/>
 			<item value="SpringProject_MVC_Demo"/>
 			<item value="SpringProject_Productdb"/>
@@ -80,7 +82,6 @@
 			<item value="Hibernate_Caching"/>
 			<item value="HibernateProject_Shopping_Card"/>
 			<item value="HibernatProject_ManyToMany"/>
-			<item value="HibernateProject_ManyToOne"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

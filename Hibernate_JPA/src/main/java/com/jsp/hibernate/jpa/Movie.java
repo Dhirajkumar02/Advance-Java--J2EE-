@@ -54,10 +54,9 @@ public class Movie {
 	public String toString() {
 		return "Movie [movieId=" + movieId + ", movieReleasedDate=" + movieReleasedDate + ", movieName=" + movieName
 				+ ", movieActorName=" + movieActorName + ", movieDirectorName=" + movieDirectorName + ", movieType="
-				+ movieType + ", getMovieId()=" + getMovieId() + ", getMovieReleasedDate()=" + getMovieReleasedDate()
-				+ ", getMovieName()=" + getMovieName() + ", getMovieActorName()=" + getMovieActorName()
-				+ ", getMovieDirectorName()=" + getMovieDirectorName() + ", getMovieType()=" + getMovieType() + "]";
+				+ movieType + "]";
 	}
+	
 	
 	
 	

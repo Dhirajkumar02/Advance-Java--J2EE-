@@ -50,10 +50,10 @@ public class App
         
         // Delete the data from the product table
         Query<Product> query = session.createQuery("DELETE FROM Product p where p.productId = ?1");
-        query.setParameter(1, 102);
-        int rowsUpdated = query.executeUpdate();
-        if(rowsUpdated > 0) {
-        	System.out.println(rowsUpdated+ " Data deleted Successfully!!");
+        query.setParameter(1, 104);
+        int rowsDeleted = query.executeUpdate();
+        if(rowsDeleted > 0) {
+        	System.out.println(rowsDeleted+ " Data deleted Successfully!!");
         }else {
         	System.out.println("Data not deleted Successfully!");
         }
