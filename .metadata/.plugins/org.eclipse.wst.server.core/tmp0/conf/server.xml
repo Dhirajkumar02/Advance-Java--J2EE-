@@ -160,7 +160,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_MVC_StudentDB" path="/Spring_MVC_StudentDB" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC_StudentDB"/></Host>
+      <Context docBase="E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Spring_MVC_StudentDB" path="/Spring_MVC_StudentDB" reloadable="true" source="org.eclipse.jst.j2ee.server:Spring_MVC_StudentDB"/><Context docBase="E:\Advance Java (J2EE)\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\SpringProject_MVC_Demo" path="/SpringProject_MVC_Demo" reloadable="true" source="org.eclipse.jst.j2ee.server:SpringProject_MVC_Demo"/></Host>
     </Engine>
   </Service>
 </Server>

@@ -22,7 +22,7 @@ public class App
         EntityTransaction et = em.getTransaction();
         et.begin();
         
-//        em.persist(m);
+//        em.persist(em);
         System.out.println(em.find(Movie.class, 102));
         et.commit();
         em.close();
