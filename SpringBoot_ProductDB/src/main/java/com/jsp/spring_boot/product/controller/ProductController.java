@@ -6,6 +6,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -22,21 +23,21 @@ public class ProductController {
 	@Autowired
 	private ProductService productService;
 	
-	@PostMapping()
+	@PostMapping
 	public ResponseStructure<Product> addProduct(@RequestBody Product product) {
 		product = productService.addProduct(product);
 		return ResponseStructure.create(HttpStatus.CREATED.value(), "Product Object Created Successfully!!", product);
 		
 	}
 	
-	@GetMapping("/find")
-	public ResponseEntity<ResponseStructure<Product>> findProductById(@RequestParam int productId) {
+	@GetMapping("/{productId}")
+	public ResponseEntity<ResponseStructure<Product>> findProductById(@PathVariable int productId) {
 		Product product = productService.findProductById(productId);
 		return ResponseEntity.status(HttpStatus.FOUND).body(ResponseStructure.create(HttpStatus.FOUND.value(), "Product Found", product));
 		
 	}
 
-	@GetMapping()
+	@GetMapping
 	public ResponseEntity<ResponseStructure<List<Product>>> findAllProducts() {
 		List<Product> products = productService.findAllProducts();
 		return ResponseEntity.status(HttpStatus.FOUND).body(ResponseStructure.create(HttpStatus.FOUND.value(), "Products Found", products));
@@ -48,8 +49,8 @@ public class ProductController {
 		return ResponseStructure.create(HttpStatus.FOUND.value(), "Product Updated", product);
 	}
 
-	@DeleteMapping()
-	public ResponseStructure<Product> deleteProductById(int productId) {
+	@DeleteMapping("/{productId}")
+	public ResponseStructure<Product> deleteProductById(@PathVariable int productId) {
 		Product product = productService.deleteProductById(productId);
 		return ResponseStructure.create(HttpStatus.OK.value(), "Product is Deleted", product);
 	}
